@@ -4,8 +4,6 @@
 - 🔒 I am passionate about cybersecurity.
 - 📷 @remx__mrg
 
-##
-
 ## Contact-me ! 📝
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r%C3%A9mi-m-51a495200/)
