@@ -10,6 +10,20 @@
 [<img align="left" alt="mail" src="https://img.shields.io/badge/mail-fff?style=for-the-badge&logo=gmail&logoColor=red" />](mailto:remi.mergen@epitech.eu)
 <br clear="left">
 
+## Programming Languages  <img src="assets/coding.png" style="width:30px;height:30px" alt="coding-icon"/>
+
+<img align="left" src="assets/c.png" alt="C" style="width:50px;height:50px"/>
+
+<img align="left" src="assets/python (1).png" alt="python" style="width:50px;height:50px"/>
+
+<img align="left" src="assets/mysql.png" alt="sql" style="width:50px;height:50px"/>
+
+<img align="left" src="assets/gnu-bash.png" alt="bnu-bash" style="width:50px;height:50px"/>
+
+<img align="left" src="assets/html-5.png" alt="html5" style="width:50px;height:50px"/>
+
+<img align="left" src="assets/nodejs.png" alt="nodejs" style="width:50px;height:50px"/><br clear="left">
+
 ## Stats 📊
 
 <a href="https://github.com/Remi-Mergen/github-readme-stats">
