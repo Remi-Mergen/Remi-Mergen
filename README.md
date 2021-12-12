@@ -2,7 +2,6 @@
 - 👀 I am interested in sports, music, space and a lot of other things !
 - 🌱 I am currently learning C language at Epitech Strasbourg in first year.
 - 🔒 I am passionate about cybersecurity.
-- 📫 How to reach me  => remi.mergen@epitech.eu
 - 📷 @remx__mrg
 
 ##
@@ -10,8 +9,7 @@
 ## Contact-me ! 📝
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r%C3%A9mi-m-51a495200/)
-[<img align="left" alt="mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=gmail&logoColor=red" />](https://www.linkedin.com/in/r%C3%A9mi-m-51a495200/)
-<a class="button" href="mailto:remi.mergen@epitech.eu">Kontakt</a>
+[<img align="left" alt="mail" src="https://img.shields.io/badge/mail-fff?style=for-the-badge&logo=gmail&logoColor=red" />](mailto:remi.mergen@epitech.eu)
 <br clear="left">
 
 ##
