@@ -6,7 +6,7 @@
 
 ## Contact-me ! 📝
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r%C3%A9mi-m-51a495200/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/remi-mergen/)
 [<img align="left" alt="mail" src="https://img.shields.io/badge/mail-fff?style=for-the-badge&logo=gmail&logoColor=red" />](mailto:remi.mergen@epitech.eu)
 <br clear="left">
 
