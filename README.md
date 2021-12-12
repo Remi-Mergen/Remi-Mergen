@@ -10,8 +10,6 @@
 [<img align="left" alt="mail" src="https://img.shields.io/badge/mail-fff?style=for-the-badge&logo=gmail&logoColor=red" />](mailto:remi.mergen@epitech.eu)
 <br clear="left">
 
-##
-
 ## Stats 📊
 
 <a href="https://github.com/Remi-Mergen/github-readme-stats">
