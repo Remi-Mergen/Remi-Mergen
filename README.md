@@ -14,6 +14,8 @@
 
 <img align="left" src="assets/c.png" alt="C" style="width:50px;height:50px"/>
 
+<img align="left" src="assets/docker.png" alt="docker" style="width:50px;height:50px"/>
+
 <img align="left" src="assets/python (1).png" alt="python" style="width:50px;height:50px"/>
 
 <img align="left" src="assets/mysql.png" alt="sql" style="width:50px;height:50px"/>
@@ -22,7 +24,8 @@
 
 <img align="left" src="assets/html-5.png" alt="html5" style="width:50px;height:50px"/>
 
-<img align="left" src="assets/nodejs.png" alt="nodejs" style="width:50px;height:50px"/><br clear="left">
+<img align="left" src="assets/nodejs.png" alt="nodejs" style="width:50px;height:50px"/>
+<br clear="left">
 
 ## Stats 📊
 
@@ -33,5 +36,9 @@
 <a href="https://github.com/Remi-Mergen/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Mergen&bg_color=320,C352FF,36D4FF&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" />
 </a>
+
+<br>
+
+[![Graph](https://activity-graph.herokuapp.com/graph?username=Remi-Mergen&bg_color=0D1117&color=B33771&line=B33771&point=FFFFFF&hide_border=true)]()
 
 <!-- username=Remi-Mergen -->
