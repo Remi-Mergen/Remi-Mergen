@@ -22,8 +22,6 @@
 
 <img align="left" src="assets/gnu-bash.png" alt="bnu-bash" style="width:50px;height:50px"/>
 
-<img align="left" src="assets/html-5.png" alt="html5" style="width:50px;height:50px"/>
-
 <img align="left" src="assets/nodejs.png" alt="nodejs" style="width:50px;height:50px"/>
 <br clear="left">
 
