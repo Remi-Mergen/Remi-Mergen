@@ -16,13 +16,15 @@
 
 <img align="left" src="assets/docker.png" alt="docker" style="width:50px;height:50px"/>
 
-<img align="left" src="assets/python (1).png" alt="python" style="width:50px;height:50px"/>
+<img align="left" src="assets/python.png" alt="python" style="width:50px;height:50px"/>
 
 <img align="left" src="assets/mysql.png" alt="sql" style="width:50px;height:50px"/>
 
 <img align="left" src="assets/gnu-bash.png" alt="bnu-bash" style="width:50px;height:50px"/>
 
 <img align="left" src="assets/nodejs.png" alt="nodejs" style="width:50px;height:50px"/>
+
+<img align="left" src="assets/ansible.png" alt="ansible" style="width:50px;height:50px"/>
 <br clear="left">
 
 ## Stats 📊
