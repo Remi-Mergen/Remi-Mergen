@@ -39,6 +39,5 @@
 
 <br>
 
-[![Graph](https://activity-graph.herokuapp.com/graph?username=Remi-Mergen&bg_color=0D1117&color=B33771&line=B33771&point=FFFFFF&hide_border=true)]()
 
 <!-- username=Remi-Mergen -->
