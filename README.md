@@ -1,7 +1,7 @@
 # 👋 Hi everyone !
 - 👀 I am interested in sports, music, space and a lot of other things !
-- 🌱 I am currently learning C language at Epitech Strasbourg in first year.
-- 🔒 I am passionate about cybersecurity and cloud.
+- 🌱 I am currently studying at Epitech Strasbourg in second year.
+- 🔒 I am passionate about cybersecurity, cloud and DevOps.
 - 📷 @remx__mrg
 
 ## Contact-me ! 📝
