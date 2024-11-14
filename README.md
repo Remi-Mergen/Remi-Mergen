@@ -19,7 +19,7 @@
 
 <img align="left" src="assets/docker.png" alt="docker" style="width:50px;height:50px;padding:10px"/>
 
-<img align="left" src="assets/kubernetes.png" alt="kubernetes" style="width:50px;height:50px;padding:10px"/>
+<!--<img align="left" src="assets/kubernetes.png" alt="kubernetes" style="width:50px;height:50px;padding:10px"/>-->
 
 <img align="left" src="assets/mysql.png" alt="mysql" style="width:50px;height:50px;padding:10px"/>
 
@@ -32,10 +32,10 @@
 <br clear="left">
 
 ## Stats 📊
-
+<!--
 <a href="https://github.com/Remi-Mergen/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Remi-Mergen&bg_color=30,FF5733,C352FF&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" style="padding:10px"/>
-</a>
+</a> -->
 
 <a href="https://github.com/Remi-Mergen/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Mergen&bg_color=320,C352FF,36D4FF&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" style="padding:10px"/>
